@@ -1,2 +1,6 @@
 opencv-python-headless
 # opencv-python
+opencv-python~=4.6.0.66
+streamlit~=1.7.0
+numpy~=1.23.5
+Pillow~=9.3.0
